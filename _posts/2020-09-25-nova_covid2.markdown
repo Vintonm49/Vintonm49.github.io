@@ -3,6 +3,7 @@ layout: post
 title: "COVID-19 in Nothern Virginia"
 author: "Melanie Vinton"
 categories: jekyll update
+output: html
 
 ---
 
