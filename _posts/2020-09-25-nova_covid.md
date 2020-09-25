@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19 in Nothern Virginia"
-date: "2017-02-09 13:40:27 CDT"
+date: "2020-09-25"
 output: 
   html_document:
     keep_md: true
